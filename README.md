@@ -9,17 +9,6 @@ Data was obtained from **cBioPortal** (Cervical Squamous Cell Carcinoma - TCGA, 
 * `data_mutations.txt`: List of all mutations (used to isolate PIK3CA variants).
 * `data_clinical_sample.txt`: Patient IDs and clinical information.
 
-# Bioinformatic Analysis of PIK3CA Mutations in Cervical Cancer (TCGA-CESC)
-
-## 📋 Overview
-This study investigates the effect of mutations in the **PIK3CA** gene on the transcriptional profile (transcriptome) of patients with cervical cancer. Using data from **TCGA (The Cancer Genome Atlas)**, a Differential Gene Expression (DGE) analysis was conducted to identify the genes and biological pathways influenced by this specific mutation.
-
-## 📊 Data Source
-Data was obtained from **cBioPortal** (Cervical Squamous Cell Carcinoma - TCGA, Firehose Legacy) and includes:
-* `data_mrna_seq_v2_rsem.txt`: Gene expression levels (RNA-seq).
-* `data_mutations.txt`: List of all mutations (used to isolate PIK3CA variants).
-* `data_clinical_sample.txt`: Patient IDs and clinical information.
-
 ## ⚙️ Methodology
 
 ### 1. Data Preprocessing & Cleaning
