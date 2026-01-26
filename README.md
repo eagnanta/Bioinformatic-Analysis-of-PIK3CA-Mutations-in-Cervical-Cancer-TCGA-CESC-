@@ -51,6 +51,7 @@ An **Over-Representation Analysis (ORA)** was conducted using `gseapy` with the 
 
 <img width="856" height="277" alt="image" src="https://github.com/user-attachments/assets/fa56e589-f010-41e0-8e34-b69b5d7aeb47" />
 
+
 **Key Biological Trends:**
 * **Response to metal ions/cadmium:** Related to oxidative stress; suggesting the mutation helps cancer cells survive toxic environments.
 * **Cell-cell adhesion:** Crucial for metastatic potential; identified via GO:0016338 and GO:0098742.
@@ -61,6 +62,7 @@ An **Over-Representation Analysis (ORA)** was conducted using `gseapy` with the 
 The heatmap visualizes the top 30 most significant genes across all patients.
 
 <img width="865" height="737" alt="image" src="https://github.com/user-attachments/assets/e2891a55-6c97-42ed-bb5a-3d3953307320" />
+
 
 **Interpretation:**
 While the Volcano Plot shows clear statistical differences, the Heatmap reveals **biological heterogeneity**. The absence of a single, uniform pattern across all mutants suggests that the PIK3CA mutation interacts with other genetic or epigenetic factors. This highlights the complexity of cervical cancer and the necessity for personalized patient categorization.
