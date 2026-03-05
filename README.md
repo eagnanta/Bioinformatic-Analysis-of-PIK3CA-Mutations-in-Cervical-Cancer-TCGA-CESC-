@@ -1,4 +1,4 @@
-# Bioinformatic Analysis of PIK3CA Mutations in Cervical Cancer (TCGA-CESC)
+# Bioinformatic Analysis of PIK3CA Mutations in Cervical Cancer (TCGA-CESC).
 
 ## 📋 Overview
 This study investigates the effect of mutations in the **PIK3CA** gene on the transcriptional profile (transcriptome) of patients with cervical cancer. Using data from **TCGA (The Cancer Genome Atlas)**, a Differential Gene Expression (DGE) analysis was conducted to identify the genes and biological pathways influenced by this specific mutation.
